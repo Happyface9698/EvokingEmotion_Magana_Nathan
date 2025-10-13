@@ -82,7 +82,6 @@
     <Compile Include="Assets\FPS Horror Sound Pack\Demo\Scripts\RecoilScript.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\SITIAN\Forest Sounds 2023 Lite\River(High-Resolution)\Sample Rate Setting Guide.txt" />
     <None Include="Assets\Camping Low Poly Pack Lite\README.txt" />
     <None Include="Assets\Simple Camera Controller\Documentation\ReadMe.txt" />
   </ItemGroup>
