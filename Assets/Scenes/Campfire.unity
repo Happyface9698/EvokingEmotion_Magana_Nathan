@@ -7141,7 +7141,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 10
+  MaxDistance: 30
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -12020,13 +12020,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 687304097}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0.48339853, z: -0, w: 0.8754005}
-  m_LocalPosition: {x: 0.4252, y: 0.3362, z: -0.3686}
+  m_LocalRotation: {x: -0, y: 0.059361897, z: -0, w: 0.99823654}
+  m_LocalPosition: {x: -1.1390002, y: 0.33619997, z: -0.574}
   m_LocalScale: {x: 0.102244996, y: 0.20425235, z: 0.06892536}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1656535356}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 6.806, z: 0}
 --- !u!215 &687304099
 ReflectionProbe:
   m_ObjectHideFlags: 0
@@ -12042,7 +12042,7 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 10, y: 10, z: 10}
+  m_BoxSize: {x: 30, y: 10, z: 35}
   m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
@@ -12055,7 +12055,7 @@ ReflectionProbe:
   m_IntensityMultiplier: 1
   m_BlendDistance: 1
   m_HDR: 1
-  m_BoxProjection: 0
+  m_BoxProjection: 1
   m_RenderDynamicObjects: 0
   m_UseOcclusionCulling: 1
   m_Importance: 1
@@ -27456,13 +27456,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1361076323}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.70375514, y: 0.15297373, z: -0.24125057, w: 0.6504813}
-  m_LocalPosition: {x: 3.0540955, y: -35.600544, z: -2.53888}
+  m_LocalRotation: {x: -0.6764985, y: -0.085683435, z: 0.045356773, w: 0.73003495}
+  m_LocalPosition: {x: 4.75, y: -35.37, z: -2.4}
   m_LocalScale: {x: 0.50190735, y: 0.44501445, z: 0.605524}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 57787569}
-  m_LocalEulerAnglesHint: {x: -122.675, y: -86.03299, z: 78.574}
+  m_LocalEulerAnglesHint: {x: -101.489, y: 110.58, z: -113.86499}
 --- !u!114 &1361076325
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42598,7 +42598,7 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 128
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 10, y: 10, z: 10}
+  m_BoxSize: {x: 20, y: 10, z: 20}
   m_BoxOffset: {x: 0, y: 0, z: 0}
   m_NearClip: 0.3
   m_FarClip: 1000
